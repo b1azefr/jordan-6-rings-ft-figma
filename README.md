@@ -6,4 +6,5 @@ So i have been messing around with figma for a few days, just to get a jist of i
 
 # Plugins used
 In my first project, i utilized the "iconify" plugin, which helped me getting all the icons i needed for this project.
+
 Here's the link to the plugin: [iconify](https://www.figma.com/community/plugin/735098390272716381/iconify)
