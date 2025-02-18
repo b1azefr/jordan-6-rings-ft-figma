@@ -1,4 +1,4 @@
-# Experience the future of sneaker design with Nike Jordan 6 Rings!👟🚀
+# Experience the future of sneaker design with Nike Jordan 6 Rings!👟
 
 
 
@@ -9,3 +9,6 @@ So i have been messing around with figma for a few days, just to get a jist of i
 In my first project, i utilized the "iconify" plugin, which helped me getting all the icons i needed for this project.
 
 Here's the link to the plugin: [iconify](https://www.figma.com/community/plugin/735098390272716381/iconify)
+
+# Source website
+Want to see what the ACTUAL website looks like ? Have a look: [Nike Jordan 6 Rings](https://www.nike.com/t/jordan-6-rings-mens-shoes-2VAD3Y/322992-164)
