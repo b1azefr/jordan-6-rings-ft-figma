@@ -12,3 +12,6 @@ Here's the link to the plugin: [iconify](https://www.figma.com/community/plugin/
 
 # Source website
 Want to see what the ACTUAL website looks like ? Have a look: [Nike Jordan 6 Rings](https://www.nike.com/t/jordan-6-rings-mens-shoes-2VAD3Y/322992-164)
+# Any questions/suggestions ?
+Sure, i'd love to connect with you and get to learn some more ! 
+Here are my socials: [mail](animesh2006sharma@gmail.com) || [LinkedIn](https://www.linkedin.com/in/animesh-2006-sharma/)
